@@ -32,3 +32,6 @@ I learned how to create responsive layouts using Flexbox and CSS Grid, how to st
 
 ## Challenges Faced
 I faced challenges with responsive design, especially in using Flexbox and Grid layouts, but improved by practicing layout structuring and using media queries.
+
+## Article
+[Semantic HTML & Accessibility](https://dev.to/maina_mwangi_0f94ea77d717/semantic-html-accessibility-improving-my-first-web-project-60f)
